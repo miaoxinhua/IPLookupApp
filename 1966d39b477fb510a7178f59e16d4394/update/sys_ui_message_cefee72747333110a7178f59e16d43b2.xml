@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>va:topic:799e2fe347333110a7178f59e16d4392:node:c583087650e84b559ce850dca5af74d9:field:0</key>
+        <language>en</language>
+        <message>I couldn't find any item that matches your search query</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-24 08:34:47</sys_created_on>
+        <sys_id>cefee72747333110a7178f59e16d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>va:topic:799e2fe347333110a7178f59e16d4392:node:c583087650e84b559ce850dca5af74d9:field:0</sys_name>
+        <sys_package display_value="IPLookup" source="x_762164_iplookup">1966d39b477fb510a7178f59e16d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">1966d39b477fb510a7178f59e16d4394</sys_scope>
+        <sys_update_name>sys_ui_message_cefee72747333110a7178f59e16d43b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-24 08:34:47</sys_updated_on>
+    </sys_ui_message>
+</record_update>
